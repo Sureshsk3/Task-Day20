@@ -1,0 +1,23 @@
+body{
+  background-image: url('https://images.freeimages.com/image/previews/592/social-media-icons-5690380.jpg?fmt=webp&h=350');
+}
+.container{
+  width: 80%;
+}
+.period{
+  font-size: 50px;
+}
+.fa-ul{
+  list-style-type: none;
+}
+.fa-ul li:before{
+  font-weight: bold;
+  font-size: 25px;
+  padding: 10px;
+  margin: 0%;
+}
+.col-lg-4 i{
+  padding: 10px;
+  margin: 0 5px 0 0;
+  
+}
